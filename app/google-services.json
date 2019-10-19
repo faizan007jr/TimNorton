@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "840169838679",
+    "firebase_url": "https://tim-norton.firebaseio.com",
+    "project_id": "tim-norton",
+    "storage_bucket": "tim-norton.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840169838679:android:b36d35728eb3ae7e",
+        "android_client_info": {
+          "package_name": "com.example.timnorton_finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840169838679-vm5e19e7lr0u9ditb5tm4l7cocm6p172.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIavmO1itDrHbxCrDgejBtRNYMFNdDZhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840169838679-vm5e19e7lr0u9ditb5tm4l7cocm6p172.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
